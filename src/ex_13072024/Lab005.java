@@ -57,7 +57,7 @@ public class Lab005 {
         char letter = 'A';
         float pi = 3.14f;
 
-        System.out.printf("Integer: %d\n", num);
+        System.out.printf("Integer:%d\n", num);    //%d is format specifier and \n is escape character
         System.out.printf("String: %s\n", text);
         System.out.printf("Character: %c\n", letter);
         System.out.printf("Float: %f\n", pi);
