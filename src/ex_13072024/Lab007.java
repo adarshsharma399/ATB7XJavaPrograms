@@ -12,7 +12,7 @@ public class Lab007 {
         double mul = a*b;
         double div =a/b;
 
-        System.out.printf("sum is: %f", sum);
+        System.out.printf("sum2numbers is: %f", sum);
         System.out.println(); //to add new line
         System.out.printf("sub is: %f\n", sub);  //or add new line character
         System.out.printf("mul is: %f\n", mul);

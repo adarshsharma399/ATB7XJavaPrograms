@@ -27,7 +27,7 @@ public class Lab009 {
 
         int sum = x+y;
 
-        System.out.printf("sum is %d", sum);
+        System.out.printf("sum2numbers is %d", sum);
 
         // a,b -> operand
 

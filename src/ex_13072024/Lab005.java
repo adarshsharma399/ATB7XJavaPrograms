@@ -50,7 +50,7 @@ public class Lab005 {
         int a = 10;
         int b1 = 20;
 
-        System.out.printf("sum is: %d\n", (a + b1));
+        System.out.printf("sum2numbers is: %d\n", (a + b1));
 
         int num = 42;
         String text = "Hello, World!";
