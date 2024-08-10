@@ -1,6 +1,6 @@
 package ex_28072024;
 
-//We do not need main function when we create a Blueprint
+//We do not need main function when we create a Blueprint or class
 // main function is needed when we want to create an object
 
 public class Dog {

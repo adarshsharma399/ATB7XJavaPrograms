@@ -18,7 +18,13 @@ public class Lab018 {
         //String - Collection of characters, it is a final class
         //class - ?
 
+        //String Literal (name1): Stored in the string constant pool. Efficient in terms of memory usage and performance due to reusability.
+
         String name2 = new String("Adarsh"); //stored in heap
+
+        //String Object (name2): Stored in the heap. A new String instance is created every time new String("Adarsh") is called, regardless of the pool.
+
+
 
         //2 ways to store a string- 2
         // =, new operator

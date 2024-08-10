@@ -2,7 +2,7 @@ package ex_28072024;
 
 public class Animal {//This class is public, we can access it from any folder
     String name ="Adarsh";
-    String color;
+    String color = "Blue";
 
     void walk(){};
     void talk(){};
@@ -15,5 +15,7 @@ public class Animal {//This class is public, we can access it from any folder
 
         System.out.println(animalref3.name);
     }
+
+
 
 }

@@ -10,13 +10,13 @@ public class Lab084 {
         float marks[] = new float[5];
         System.out.println("Enter the marks of Subject 1: ");
         marks[0] = sc.nextFloat();
-        System.out.println("Enter the marks of Subject 1: ");
+        System.out.println("Enter the marks of Subject 2: ");
         marks[1] = sc.nextFloat();
-        System.out.println("Enter the marks of Subject 1: ");
+        System.out.println("Enter the marks of Subject 3: ");
         marks[2] = sc.nextFloat();
-        System.out.println("Enter the marks of Subject 1: ");
+        System.out.println("Enter the marks of Subject 4: ");
         marks[3] = sc.nextFloat();
-        System.out.println("Enter the marks of Subject 1: ");
+        System.out.println("Enter the marks of Subject 5: ");
         marks[4] = sc.nextFloat();
 
         float avg = (marks[0]+ marks[1]+ marks[2]+ marks[3]+ marks[4])/5;
