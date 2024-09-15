@@ -16,7 +16,7 @@ public class Lab159 {
 
         //List is like your Shopping list, Marks list,Collection of Items, To Do list etc...
 
-        List myList = new ArrayList();  //Dynamic Dispatch -> Father reference with ArrayList
+        List myList = new ArrayList(10);  //Dynamic Dispatch -> Father reference with ArrayList
         ArrayList myList2 = new ArrayList();
 
         Collection myList3 = new ArrayList();  //Granfather reference with ArrayList

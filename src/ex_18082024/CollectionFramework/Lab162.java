@@ -53,7 +53,7 @@ public class Lab162 {
         System.out.println("    - - - --  " );
 
 
-        // Enhanced For loop
+        // Enhanced For loop (or) for each loop
         for (Object o: mylist){
             System.out.println(o);
         }
